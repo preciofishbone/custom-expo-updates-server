@@ -1,1 +1,1 @@
-process.env.HOSTNAME = 'http://localhost:3000';
+process.env.HOSTNAME = 'https://localhost:3000';

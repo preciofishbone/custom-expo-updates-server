@@ -1,0 +1,29 @@
+{
+    "version": 0,
+    "bundler": "metro",
+    "fileMetadata":
+    {
+        "ios":
+        {
+            "bundle": "bundles\\ios-bf3f1b23cf5c8e3f4d015fab108d4799.js",
+            "assets":
+            [
+                {
+                    "path": "assets\\4f1cb2cac2370cd5050681232e8575a8",
+                    "ext": "png"
+                }
+            ]
+        },
+        "android":
+        {
+            "bundle": "bundles\\android-a8b164df358917044b6eab5ddf7d7512.js",
+            "assets":
+            [
+                {
+                    "path": "assets\\4f1cb2cac2370cd5050681232e8575a8",
+                    "ext": "png"
+                }
+            ]
+        }
+    }
+}
